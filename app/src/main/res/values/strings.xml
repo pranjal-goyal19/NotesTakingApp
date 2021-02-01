@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+
+    <string name="item_1">item 1</string>
+    <string name="item_4">item 4</string>
+    <string name="item_5">item 5</string>
+    <string name="STR">\"DROP TABLE IF EXISTS \"</string>
+    <string name="add_note">Add note</string>
+</resources>
